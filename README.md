@@ -1,4 +1,4 @@
-# fck55
+# fck55 you should add images
 print("welcome to astrologers star enter a no(1-5) to see your stars")
 num1 = int(input("enter here\n"))
 if num1 >= 3:
