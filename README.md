@@ -8,6 +8,6 @@ else:
     f2 = open("pat2.txt")
     print(f2.read()
    t = input()
-
+print("enter feedback")
 
 
