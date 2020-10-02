@@ -6,7 +6,8 @@ if num1 >= 3:
     print(f.read())
 else:
     f2 = open("pat2.txt")
-    print(f2.read())
+    print(f2.read()
+   t = input()
 
 
 
